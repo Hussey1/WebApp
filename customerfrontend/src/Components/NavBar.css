@@ -1,0 +1,19 @@
+*{
+    margin :0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.navi-frame{
+    background-color:#2980b9;
+    padding:15px 20px;
+    height:100px;
+    color:#fff;
+}
+
+.navi-frame h1{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 200;
+    letter-spacing: 5px;
+}
